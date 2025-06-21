@@ -1,0 +1,30 @@
+.post-container {
+  padding: 60px 20px;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.post-container h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.post-date {
+  color: #888;
+  margin-bottom: 20px;
+}
+
+.post-container p {
+  font-size: 1.1rem;
+  line-height: 1.6;
+  margin-bottom: 20px;
+}
+
+.post-container a {
+  color: #007BFF;
+  text-decoration: none;
+}
+
+.post-container a:hover {
+  text-decoration: underline;
+}

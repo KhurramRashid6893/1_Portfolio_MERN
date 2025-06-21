@@ -1,0 +1,46 @@
+.about-container {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.about-container h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+}
+
+.about-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.about-img {
+  width: 200px;
+  border-radius: 50%;
+  margin: 20px;
+}
+
+.about-text {
+  max-width: 600px;
+  text-align: left;
+}
+
+.about-text p {
+  font-size: 1.1rem;
+  margin-bottom: 15px;
+  line-height: 1.6;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .about-content {
+    flex-direction: column;
+  }
+
+  .about-text {
+    text-align: center;
+  }
+}

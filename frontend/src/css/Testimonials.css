@@ -1,0 +1,21 @@
+.testimonials-container {
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.testimonials-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.testimonial-card {
+  background: #f8f9fa;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 20px;
+  max-width: 300px;
+  flex: 1 1 250px;
+  font-style: italic;
+}
