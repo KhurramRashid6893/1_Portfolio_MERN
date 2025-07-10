@@ -5,7 +5,7 @@
 
 This is a responsive personal portfolio website built using the MERN stack (MongoDB, Express, React, Node.js). The website showcases my skills, projects, blog posts, testimonials, and contact information.
 
-## 🌟 Features
+## 🌟 Features 
 
 ✅ Responsive landing page (Hero section)  
 ✅ About Me page  
